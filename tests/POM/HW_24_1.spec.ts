@@ -165,7 +165,4 @@ test.describe('Testing the Sign Up form', ()=> {
         await signUpForm.verifyErrorMessageByText('Passwords do not match');
       });
 
-    
-    
-
 })
